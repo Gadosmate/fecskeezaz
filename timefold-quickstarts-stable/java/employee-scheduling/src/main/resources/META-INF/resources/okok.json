@@ -1,0 +1,2864 @@
+{
+	"employees": [
+		{
+			"name": "Gados Máté",
+			"skills": [
+				"Fizettető Pincér",
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-07-05"
+			],
+			"undesiredDates": [
+				"2024-06-28",
+				"2024-07-01"
+			],
+			"desiredDates": [
+				"2024-06-28",
+				"2024-06-27"
+			]
+		},
+		{
+			"name": "Páva Kata",
+			"skills": [
+				"Fizettető Pincér",
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-06-24",
+				"2024-07-07",
+				"2024-07-06",
+				"2024-07-02"
+			],
+			"undesiredDates": [
+				"2024-07-04"
+			],
+			"desiredDates": [
+				"2024-06-26"
+			]
+		},
+		{
+			"name": "Nagy Zoltán",
+			"skills": [
+				"Fizettető Pincér",
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-06-29",
+				"2024-07-07",
+				"2024-07-06",
+				"2024-07-05"
+			],
+			"undesiredDates": [
+				"2024-07-05"
+			],
+			"desiredDates": [
+				"2024-06-25",
+				"2024-06-24",
+				"2024-07-03"
+			]
+		},
+		{
+			"name": "Zsengellér Sára",
+			"skills": [
+				"Pultos"
+			],
+			"unavailableDates": [
+				"2024-06-24"
+			],
+			"undesiredDates": [
+				"2024-06-29"
+			],
+			"desiredDates": [
+				"2024-07-04"
+			]
+		},
+		{
+			"name": "Kis Olivér",
+			"skills": [
+				"Pultos"
+			],
+			"unavailableDates": [
+				"2024-07-05"
+			],
+			"undesiredDates": [
+				"2024-06-26"
+			],
+			"desiredDates": [
+				"2024-06-29",
+				"2024-06-26"
+			]
+		},
+		{
+			"name": "Villő",
+			"skills": [
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-27",
+				"2024-06-26",
+				"2024-06-25",
+				"2024-06-24",
+				"2024-07-05",
+				"2024-07-04",
+				"2024-07-02"
+			],
+			"undesiredDates": [
+				"2024-07-04"
+			],
+			"desiredDates": [
+				"2024-06-30",
+				"2024-06-29",
+				"2024-06-28",
+				"2024-07-07",
+				"2024-07-06",
+				"2024-07-03",
+				"2024-07-01"
+			]
+		},
+		{
+			"name": "Matyi",
+			"skills": [
+				"Pályakiseg",
+				"Pincér",
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-29",
+				"2024-06-24",
+				"2024-07-06"
+			],
+			"undesiredDates": [
+				"2024-07-01"
+			],
+			"desiredDates": [
+				"2024-07-01"
+			]
+		},
+		{
+			"name": "Hanga",
+			"skills": [
+				"Fizettető Pincér",
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-24"
+			],
+			"undesiredDates": [
+				"2024-07-06"
+			],
+			"desiredDates": [
+				"2024-06-28",
+				"2024-07-01"
+			]
+		},
+		{
+			"name": "Bence",
+			"skills": [
+				"Pályakiseg"
+			],
+			"unavailableDates": [
+				"2024-06-26",
+				"2024-06-25",
+				"2024-07-05",
+				"2024-07-04"
+			],
+			"undesiredDates": [
+				"2024-07-05",
+				"2024-07-04"
+			],
+			"desiredDates": [
+				"2024-06-30",
+				"2024-06-24",
+				"2024-07-07",
+				"2024-07-06",
+				"2024-07-05",
+				"2024-07-02"
+			]
+		},
+		{
+			"name": "Philip",
+			"skills": [
+				"Pályakiseg",
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-07-06",
+				"2024-07-05",
+				"2024-07-04",
+				"2024-07-03",
+				"2024-07-02",
+				"2024-07-01"
+			],
+			"undesiredDates": [
+				"2024-07-02"
+			],
+			"desiredDates": [
+				"2024-06-29",
+				"2024-06-28",
+				"2024-06-25",
+				"2024-06-24"
+			]
+		},
+		{
+			"name": "Atti",
+			"skills": [
+				"Fizettető Pincér",
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-26",
+				"2024-06-25",
+				"2024-07-01"
+			],
+			"undesiredDates": [
+				"2024-07-06",
+				"2024-07-05"
+			],
+			"desiredDates": [
+				"2024-06-24",
+				"2024-07-05",
+				"2024-07-04"
+			]
+		},
+		{
+			"name": "Dávid",
+			"skills": [
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-29",
+				"2024-06-27",
+				"2024-06-26",
+				"2024-07-01"
+			],
+			"undesiredDates": [
+				"2024-07-05"
+			],
+			"desiredDates": [
+				"2024-06-25",
+				"2024-07-07",
+				"2024-07-05",
+				"2024-07-04"
+			]
+		},
+		{
+			"name": "Dodó",
+			"skills": [
+				"Fizettető Pincér",
+				"Pincér",
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-06-29",
+				"2024-06-28",
+				"2024-06-27",
+				"2024-06-26"
+			],
+			"undesiredDates": [
+				"2024-07-07"
+			],
+			"desiredDates": [
+				"2024-07-05",
+				"2024-07-04"
+			]
+		},
+		{
+			"name": "Silo",
+			"skills": [
+				"Pályakiseg",
+				"Pincér"
+			],
+			"unavailableDates": [
+				"2024-06-29",
+				"2024-06-27",
+				"2024-06-26",
+				"2024-06-25",
+				"2024-06-24",
+				"2024-07-07",
+				"2024-07-06",
+				"2024-07-05",
+				"2024-07-04",
+				"2024-07-03",
+				"2024-07-02",
+				"2024-07-01"
+			],
+			"undesiredDates": [
+				"2024-07-07"
+			],
+			"desiredDates": [
+				"2024-06-30",
+				"2024-06-28"
+			]
+		},
+		{
+			"name": "Peti",
+			"skills": [
+				"Pincér",
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-06-29",
+				"2024-06-28",
+				"2024-06-27",
+				"2024-06-24"
+			],
+			"undesiredDates": [
+				"2024-07-07"
+			],
+			"desiredDates": [
+				"2024-06-26",
+				"2024-06-25",
+				"2024-07-04"
+			]
+		},
+		{
+			"name": "Mirtill",
+			"skills": [
+				"Pultkiseg"
+			],
+			"unavailableDates": [
+				"2024-06-30",
+				"2024-06-29",
+				"2024-06-28",
+				"2024-06-27",
+				"2024-06-26",
+				"2024-06-25",
+				"2024-06-24",
+				"2024-07-06",
+				"2024-07-05",
+				"2024-07-04",
+				"2024-07-03",
+				"2024-07-02",
+				"2024-07-01"
+			],
+			"undesiredDates": [
+				"2024-07-05"
+			],
+			"desiredDates": [
+				"2024-07-07"
+			]
+		}
+	],
+	"shifts": [
+		{
+			"id": "0",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-24T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "1",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-24T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "2",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-24T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Bence",
+				"skills": [
+					"Pályakiseg"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"undesiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-02"
+				]
+			}
+		},
+		{
+			"id": "3",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-24T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "4",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Philip",
+				"skills": [
+					"Pályakiseg",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-02"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-25",
+					"2024-06-24"
+				]
+			}
+		},
+		{
+			"id": "5",
+			"start": "2024-06-24T11:00:00",
+			"end": "2024-06-24T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "6",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "7",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "8",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Dávid",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-07-07",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "9",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "10",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "11",
+			"start": "2024-06-25T11:00:00",
+			"end": "2024-06-25T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Peti",
+				"skills": [
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "12",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "13",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:50:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "14",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "15",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "16",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "17",
+			"start": "2024-06-26T11:00:00",
+			"end": "2024-06-26T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Peti",
+				"skills": [
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "18",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "19",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "20",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "21",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Matyi",
+				"skills": [
+					"Pályakiseg",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-24",
+					"2024-07-06"
+				],
+				"undesiredDates": [
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "22",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "23",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "24",
+			"start": "2024-06-27T11:00:00",
+			"end": "2024-06-27T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Philip",
+				"skills": [
+					"Pályakiseg",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-02"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-25",
+					"2024-06-24"
+				]
+			}
+		},
+		{
+			"id": "25",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "26",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "27",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "28",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Silo",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-28"
+				]
+			}
+		},
+		{
+			"id": "29",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Philip",
+				"skills": [
+					"Pályakiseg",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-02"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-25",
+					"2024-06-24"
+				]
+			}
+		},
+		{
+			"id": "30",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "31",
+			"start": "2024-06-28T11:00:00",
+			"end": "2024-06-28T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Villő",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-03",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "32",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "33",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "34",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "35",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "36",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Philip",
+				"skills": [
+					"Pályakiseg",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-02"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-25",
+					"2024-06-24"
+				]
+			}
+		},
+		{
+			"id": "37",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "38",
+			"start": "2024-06-29T11:00:00",
+			"end": "2024-06-29T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Villő",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-03",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "39",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "40",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "41",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Silo",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-28"
+				]
+			}
+		},
+		{
+			"id": "42",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Bence",
+				"skills": [
+					"Pályakiseg"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"undesiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-02"
+				]
+			}
+		},
+		{
+			"id": "43",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "44",
+			"start": "2024-06-30T11:00:00",
+			"end": "2024-06-30T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Villő",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-03",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "45",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-01T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "46",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-01T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "47",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-01T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "48",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-01T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Kis Olivér",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-26"
+				],
+				"desiredDates": [
+					"2024-06-29",
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "49",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Matyi",
+				"skills": [
+					"Pályakiseg",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-24",
+					"2024-07-06"
+				],
+				"undesiredDates": [
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "50",
+			"start": "2024-07-01T11:00:00",
+			"end": "2024-07-01T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "51",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "52",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "53",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Dávid",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-07-07",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "54",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Bence",
+				"skills": [
+					"Pályakiseg"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"undesiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-02"
+				]
+			}
+		},
+		{
+			"id": "55",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "56",
+			"start": "2024-07-02T11:00:00",
+			"end": "2024-07-02T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Peti",
+				"skills": [
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "57",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "58",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:50:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Nagy Zoltán",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-03"
+				]
+			}
+		},
+		{
+			"id": "59",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "60",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Matyi",
+				"skills": [
+					"Pályakiseg",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-24",
+					"2024-07-06"
+				],
+				"undesiredDates": [
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "61",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "62",
+			"start": "2024-07-03T11:00:00",
+			"end": "2024-07-03T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Villő",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-03",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "63",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "64",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "65",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "66",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "67",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Dávid",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-07-07",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "68",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "69",
+			"start": "2024-07-04T11:00:00",
+			"end": "2024-07-04T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Peti",
+				"skills": [
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "70",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Páva Kata",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-26"
+				]
+			}
+		},
+		{
+			"id": "71",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "72",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "73",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Peti",
+				"skills": [
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "74",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "75",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "76",
+			"start": "2024-07-05T11:00:00",
+			"end": "2024-07-05T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Matyi",
+				"skills": [
+					"Pályakiseg",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-24",
+					"2024-07-06"
+				],
+				"undesiredDates": [
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "77",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Atti",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-06",
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "78",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Dodó",
+				"skills": [
+					"Fizettető Pincér",
+					"Pincér",
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26"
+				],
+				"undesiredDates": [
+					"2024-07-07"
+				],
+				"desiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "79",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "80",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Dávid",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-07-07",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "81",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Bence",
+				"skills": [
+					"Pályakiseg"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"undesiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-02"
+				]
+			}
+		},
+		{
+			"id": "82",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "83",
+			"start": "2024-07-06T11:00:00",
+			"end": "2024-07-06T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Villő",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-02"
+				],
+				"undesiredDates": [
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-03",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "84",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Hanga",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-07-06"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				]
+			}
+		},
+		{
+			"id": "85",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Fizettető Pincér",
+			"employee": {
+				"name": "Gados Máté",
+				"skills": [
+					"Fizettető Pincér",
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-07-05"
+				],
+				"undesiredDates": [
+					"2024-06-28",
+					"2024-07-01"
+				],
+				"desiredDates": [
+					"2024-06-28",
+					"2024-06-27"
+				]
+			}
+		},
+		{
+			"id": "86",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pincér",
+			"employee": {
+				"name": "Dávid",
+				"skills": [
+					"Pályakiseg",
+					"Pincér"
+				],
+				"unavailableDates": [
+					"2024-06-29",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-06-25",
+					"2024-07-07",
+					"2024-07-05",
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "87",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pálya",
+			"requiredSkill": "Pályakiseg",
+			"employee": {
+				"name": "Bence",
+				"skills": [
+					"Pályakiseg"
+				],
+				"unavailableDates": [
+					"2024-06-26",
+					"2024-06-25",
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"undesiredDates": [
+					"2024-07-05",
+					"2024-07-04"
+				],
+				"desiredDates": [
+					"2024-06-30",
+					"2024-06-24",
+					"2024-07-07",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-02"
+				]
+			}
+		},
+		{
+			"id": "88",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultos",
+			"employee": {
+				"name": "Zsengellér Sára",
+				"skills": [
+					"Pultos"
+				],
+				"unavailableDates": [
+					"2024-06-24"
+				],
+				"undesiredDates": [
+					"2024-06-29"
+				],
+				"desiredDates": [
+					"2024-07-04"
+				]
+			}
+		},
+		{
+			"id": "89",
+			"start": "2024-07-07T11:00:00",
+			"end": "2024-07-07T23:00:00",
+			"location": "Pult",
+			"requiredSkill": "Pultkiseg",
+			"employee": {
+				"name": "Mirtill",
+				"skills": [
+					"Pultkiseg"
+				],
+				"unavailableDates": [
+					"2024-06-30",
+					"2024-06-29",
+					"2024-06-28",
+					"2024-06-27",
+					"2024-06-26",
+					"2024-06-25",
+					"2024-06-24",
+					"2024-07-06",
+					"2024-07-05",
+					"2024-07-04",
+					"2024-07-03",
+					"2024-07-02",
+					"2024-07-01"
+				],
+				"undesiredDates": [
+					"2024-07-05"
+				],
+				"desiredDates": [
+					"2024-07-07"
+				]
+			}
+		}
+	],
+	"score": "0hard/26020soft",
+	"solverStatus": "NOT_SOLVING"
+}
